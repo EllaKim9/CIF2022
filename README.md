@@ -1,1 +1,15 @@
 # CIF2022
+
+## Documents:
+
+### Ella_Kim.pdf: 
+
+Presentation summary of work done in the Health and Human Services Department and the Office of the Chief Data Officer.
+
+### Lyme_Disease__Congressional_District_Cases.pdf
+
+Documentation of the precedure and methods used in Lyme disease visualizations
+
+### Lyme_cases.ipynb: 
+
+Python code of the Lyme disease visualizations
