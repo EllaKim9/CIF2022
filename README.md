@@ -2,7 +2,7 @@
 
 ## Documents:
 
-### Ella_Kim.pdf: 
+### (Ella_Kim.pdf)[https://github.com/EllaKim9/CIF2022/blob/main/Ella_Kim.pdf]: 
 
 Presentation summary of work done in the Health and Human Services Department and the Office of the Chief Data Officer.
 
